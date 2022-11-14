@@ -1,0 +1,3 @@
+rhoSlauFoam.C
+
+EXE = $(FOAM_APPBIN)/rhoSlauFoam
